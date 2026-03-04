@@ -5,3 +5,5 @@ BLOCK_SIZE = 64
 Nueva linea en confg creada en al rama 
 
 modificacion local en config
+
+modificacion desde web de config
