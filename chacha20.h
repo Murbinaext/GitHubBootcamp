@@ -17,6 +17,8 @@
  *
  * ChaCha20 is symmetrical so the same function is used for encrypting
  * and decrypting.
+ * 
+ * nueva linea de modificacion
  */
 void chacha20_encrypt(const uint8_t key[32], const uint8_t nonce[12],
                       uint32_t counter,
