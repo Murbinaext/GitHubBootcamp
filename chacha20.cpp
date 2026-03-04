@@ -1,6 +1,12 @@
 #include "chacha20.h"
 #include <cstring>
 
+
+// Comentario en chacha20.cpp dentro de la rama nuevarama
+
+
+
+
 // rotate left
 static inline uint32_t rotl(uint32_t x, int n) {
     return (x << n) | (x >> (32 - n));
